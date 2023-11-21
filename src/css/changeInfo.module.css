@@ -1,0 +1,30 @@
+.ChangeInfo_0{
+    max-width: 1200px;
+    margin: auto;
+    border: 1px solid aqua;
+    margin-top: 50px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: rgba(80, 121, 255,0.5);
+
+}
+.ChangeInfo_1{
+    display: grid;
+    grid-template-columns: auto;
+}
+.input{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px 0;
+}
+.button{
+    background-color: rgba(10, 38, 128, 1);
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px 0;
+    border-radius: 30px;
+    font-size: 30px;
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.LogOut{
+    position: fixed;
+    right: 20px;
+    top: 10px;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}

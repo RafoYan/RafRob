@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.LogIn{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../images/RafRob.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.Log_div{
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgba(80, 121, 255,0.5);
+    padding: 30px 20px;
+    display: inline-block;
+    width: 20%;
+    padding-bottom: 70px;
+
+}
+.Log_input_Uname{
+    display: block;
+    width: 100%;
+}
+.Log_input_Pass{
+    display: block;
+    margin-top: 10px;
+    width: 100%;
+}
+.Log_input_Confirm{
+
+    width: 40%;
+    margin-top: 10px;
+    background-color: #ecf0f3;
+    padding: 10px 5px;
+    border-radius: 30px;
+    box-shadow: inset 5px 5px 12px #ffffff,
+                      5px 5px 12px rgba(0, 0, 0, .16);
+}
+.Login2{
+    position: absolute;
+    
+    width: 20%;
+    display: inline-block;
+    background-color: rgba(80, 121, 255,0.5);
+    left: 41%;
+    text-align: center;
+    padding: 20px 0;
+}
+.button1{
+    width: 40%;
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+    background-color: #ecf0f3;
+    padding: 10px 5px;
+    border-radius: 30px;
+    box-shadow: inset 5px 5px 12px #ffffff,
+                      5px 5px 12px rgba(0, 0, 0, .16);
+
+}

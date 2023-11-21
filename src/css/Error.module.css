@@ -1,0 +1,14 @@
+.Error{
+    max-width: 1200px;
+    margin: auto;
+    border: 1px solid aqua;
+    margin-top: 50px;
+    height: 100vh;
+    text-align: center;
+
+}
+.ErrorImg{
+    width: 90%;
+    height: 90%;
+    padding: 25px 0;
+}

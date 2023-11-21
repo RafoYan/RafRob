@@ -1,0 +1,9 @@
+.App{
+    background-image: url('../images/RafRob.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-attachment: sticky;
+    background-position: center; 
+    padding-bottom: 50px;
+}

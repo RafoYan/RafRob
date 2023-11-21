@@ -1,0 +1,33 @@
+.home{
+    display: grid;
+    grid-gap: 100px;
+    grid-template-columns: 1fr 3fr;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid aqua;
+    box-sizing: border-box;
+    background-color: rgba(80, 121, 255,0.5);
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.tvyalner{
+    border: 1px solid;
+    width: 50%;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+.img0{
+    width: 100%;
+    border-radius: 50%;
+}
+.changeInfo{
+    background-color: rgba(10, 38, 128, 1);
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 15px;
+    color: black;
+}

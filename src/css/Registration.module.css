@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.Registration0{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../images/RafRob.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.Registration1{
+    width: 20%;
+    background-color: rgba(80, 121, 255,0.5);
+    padding: 30px 20px;
+    text-align: center;
+    display: inline-block;
+}
+.input{
+    width: 90%;
+    margin: auto;
+}
+.button0{
+    width: 40%;
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+    background-color: #ecf0f3;
+    padding: 10px 5px;
+    border-radius: 30px;
+    box-shadow: inset 5px 5px 12px #ffffff,
+                      5px 5px 12px rgba(0, 0, 0, .16);
+}
+.Registration2{
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    
+    width: 20%;
+    background-color: rgba(80, 121, 255,0.5);
+    text-align: center;
+    padding: 20px 0;
+}
+.button1{
+    width: 40%;
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+    background-color: #ecf0f3;
+    padding: 10px 5px;
+    border-radius: 30px;
+    box-shadow: inset 5px 5px 12px #ffffff,
+                      5px 5px 12px rgba(0, 0, 0, .16);
+
+}

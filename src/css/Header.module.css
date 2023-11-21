@@ -1,0 +1,14 @@
+.header{
+    display: grid;
+    grid-template-columns: auto auto;
+    max-width: 1200px;
+    border: 1px solid aqua;
+    margin: auto;
+    box-sizing: border-box;
+    background-color: rgba(80, 121, 255,0.5);
+}
+.h1{
+    padding: 10px;
+    color: black;
+    font-size: 30px;
+}

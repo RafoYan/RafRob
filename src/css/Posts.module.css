@@ -1,0 +1,12 @@
+.PostDiv{
+    max-width: 1200px;
+    margin: auto;
+    border: 1px solid aqua;
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px 0;
+    background-color: rgba(80, 121, 255,0.5);
+}
+.PostInput{
+    margin-right: 100px;
+}
